@@ -1,12 +1,15 @@
 # Site settings
-title: Herro!
+title: Anna Benitez
 email: anita13benita@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  MEOW
+ I’m a senior at the University of Maryland college park. I choose 
+computer science because you really do anything with it. Once you
+have the fundamental you can jump at any project and figure out a way
+ to make it work. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tridentwizard.com" # the base hostname & protocol for your site
 twitter_username: tridentwizard
 github_username:  tridentwizard
-
+facebook_username: tridentwizard
 # Build settings
 markdown: kramdown
