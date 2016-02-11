@@ -2,8 +2,6 @@
 title: Anna Benitez
 email: anita13benita@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-
-a
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tridentwizard.com" # the base hostname & protocol for your site
 twitter_username: tridentwizard
